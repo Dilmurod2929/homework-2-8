@@ -87,4 +87,22 @@ footer {
     grid-template-rows: 40px 40px 100px 100px 80px 60px 60px;
     grid-template-areas: "header" "menu" "section" "main" "footer" "art-3" "art-2";
   }
+  header {
+    padding: 10px 0;
+  }
+  menu {
+    padding: 10px 0;
+  }
+  section {
+    padding: 2rem 0;
+  }
+  main {
+    padding: 2rem 0;
+  }
+  .art-3 {
+    padding: 1rem 0;
+  }
+  .art-2 {
+    padding: 1rem 0;
+  }
 }/*# sourceMappingURL=main.css.map */
